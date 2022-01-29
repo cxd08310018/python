@@ -1,0 +1,29 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="ceshibao.ceshi.list" />
+          <option value="random" />
+          <option value="csv" />
+          <option value="ceshibao.caiquanyouxi.*" />
+          <option value="ceshibao.tingke01.*" />
+          <option value="ceshibao.tingke.*" />
+          <option value="urlllib" />
+          <option value="使用python爬虫爬取的信息.测试.mayavi" />
+          <option value="使用python爬虫爬取的信息.测试.moviepy" />
+          <option value="mayavi" />
+          <option value="moviepy" />
+          <option value="使用python爬虫爬取的信息.测试.np" />
+          <option value="使用python爬虫爬取的信息.测试.u" />
+          <option value="使用python爬虫爬取的信息.测试.mlab_source" />
+          <option value="bpy" />
+          <option value="使用python爬虫爬取的信息.测试.O" />
+          <option value="使用python爬虫爬取的信息.测试.abso_najor" />
+          <option value="urllib2" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
